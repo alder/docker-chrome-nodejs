@@ -1,2 +1,2 @@
 # docker-chrome-nodejs
-Docker image based on NodeJS:10-jessie with Google Chrome.
+Docker image based on NodeJS:9-jessie with Google Chrome.
