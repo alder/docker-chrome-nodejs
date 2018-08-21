@@ -1,4 +1,4 @@
-FROM node:10-jessie
+FROM node:9-jessie
 
 RUN apt-get update
 RUN apt-get install -y --no-install-recommends \ 
